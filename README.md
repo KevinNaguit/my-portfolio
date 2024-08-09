@@ -15,7 +15,7 @@ Hi there! This portfolio is a snapshot of my journey as I learn and grow in web 
 ### Technologies I Used
 
 - **React**: This helps make my website interactive and lets things update smoothly without refreshing the page.
-- **Styled components**: This tool helps me style my website in a way that’s easy to manage and change, making everything look neat and organized.
+- **Styled components**: This tool lets me write CSS inside JavaScript, making it easy to manage and update the styles. It helps keep everything neat and organized.
 
 ### My Approach
 
