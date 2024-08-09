@@ -19,7 +19,7 @@ Welcome! This portfolio highlights my journey and growth in web development.
 
 ### Approach
 
--**User Experience**: Focuses on creating an intuitive and engaging navigation experience. Emphasizes visual appeal and usability to make the site pleasant to interact with.
+- **User Experience**: Focuses on creating an intuitive and engaging navigation experience. Emphasizes visual appeal and usability to make the site pleasant to interact with.
 
 ### Future Updates
 
