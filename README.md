@@ -24,9 +24,3 @@ Hi there! This portfolio is a snapshot of my journey as I learn and grow in web 
 ### Future Updates
 
 As I keep learning, I’ll continue to improve the site’s design, making sure it works well on all devices and enhancing its responsiveness. I’ll also be adding new features to better showcase my skills and projects.
-
-<img width="1436" alt="Sign Up page" src="https://github.com/user-attachments/assets/3c1e6c31-2e93-4674-94b7-f63d99d073f5">
-<img width="1436" alt="Log In page" src="https://github.com/user-attachments/assets/c07afc4f-7802-4af0-856f-f238c2f1c05b">
-<img width="1436" alt="User dashboard" src="https://github.com/user-attachments/assets/b68cdaed-0157-4564-8c91-84e31b08cbb9">
-<img width="1436" alt="Favourites restaurant list" src="https://github.com/user-attachments/assets/82b708d4-a2af-4a63-87b0-e2e8646a5968">
-<img width="1436" alt="Tag management page" src="https://github.com/user-attachments/assets/12fe0503-4252-47a0-956a-1821ba3e59a2">
